@@ -35,7 +35,7 @@
 
 I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me.
 
-[![Linkedin Badge](https://img.shields.io/badge/-prasad.abeysekara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
+[![Linkedin Badge](https://img.shields.io/badge/-prasad.abeysekara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasad-abeysekara-6337b3119/)](https://www.linkedin.com/in/prasad-abeysekara-6337b3119/)
 [![Gmail Badge](https://img.shields.io/badge/-prasadabeysekara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasadabeysekara@gmail.com)](mailto:prasadabeysekara@gmail.com)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MrCJ91)

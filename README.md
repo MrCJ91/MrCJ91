@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Blockchain Technologies.
+- 🌱 I’m currently learning Solidity, Ethers, Go-Ethereum.
+- 💬 Ask me about Solidity and DApps.
+
 <!--
 **MrCJ91/MrCJ91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

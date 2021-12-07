@@ -33,17 +33,10 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-
-
 I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me.
 
 [![Linkedin Badge](https://img.shields.io/badge/-prasad.abeysekara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
-[![Instagram Badge](https://img.shields.io/badge/-prasad.abeysekara-purple?style=flat-square&logo=instagram&logoColor=white&link=)]()
-[![Youtube Badge](https://img.shields.io/badge/-prasad.abeysekara-darkred?style=flat-square&logo=youtube&logoColor=white&link=)]()
-[![Medium Badge](https://img.shields.io/badge/-@prasadabeysekara-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=)]()
 [![Gmail Badge](https://img.shields.io/badge/-prasadabeysekara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasadabeysekara@gmail.com)](mailto:prasadabeysekara@gmail.com)
-
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MrCJ91)
 
